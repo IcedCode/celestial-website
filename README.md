@@ -1,5 +1,6 @@
 # celestial-website
 (P.s. Icy- I gave you much more perms ;) 
+Quick note -- ideas for zonemc.pdf -- is literally as it suggests so lol, I haven't changed it xD (Soz!)
 
 Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) applies to the file celestial-portal-webpage.html
 A helpful summary can be seen here http://creativecommons.org/licenses/by-nd/4.0/.
